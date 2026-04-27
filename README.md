@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Dhruvil Kapadiya, a Computer Engineering student with a strong interest in backend and full-stack development. I focus on writing clean, maintainable code and understanding how systems work beyond the surface level. I’m continuously improving my skills and aim to contribute to real-world products where performance and reliability matter.
+I’m Dhruvil Kapadiya, a Computer Engineering student specializing in Java full-stack web development. I work with technologies like Spring Boot and React to build structured, maintainable, and reliable web applications.
 
 
 ## 🌐 Socials:
